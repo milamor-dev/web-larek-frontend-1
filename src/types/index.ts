@@ -37,5 +37,5 @@ export interface IOrderResult {
 export interface IAppState {
 	catalog: IProduct[]; 
 	order: IFullOrder;
-	basket: IBasket;
+	basket: IBasket;	
 }
